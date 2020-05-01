@@ -1,6 +1,7 @@
 {
   "beacons": [
     {
+      "id":1,
       "TimeStamp": "2019-03-19 12:04:45",
       "DataFormat": "iBeacon",
       "BLEmac(hex)": "C5DE58748221",
@@ -9,46 +10,6 @@
       "iBeaconMajor": 0,
       "iBeaconMinor": 0,
       "RSSI@1m(dBm)": 0
-    },
-    {
-      "TimeStamp": "2019-03-19 12:04:46",
-      "DataFormat": "iBeacon",
-      "BLEmac(hex)": "C5DE58748222",
-      "RSSI(dBm)": -44,
-      "iBeaconUUID(hex)": "01020304050607080910111213141516",
-      "iBeaconMajor": 1,
-      "iBeaconMinor": 1,
-      "RSSI@1m(dBm)": 1
-    },
-    {
-      "TimeStamp": "2020-03-20 12:04:45",
-      "DataFormat": "iBeacon",
-      "BLEmac(hex)": "C5DE58748221",
-      "RSSI(dBm)": -44,
-      "iBeaconUUID(hex)": "01020304050607080910111213141516",
-      "iBeaconMajor": 3,
-      "iBeaconMinor": 3,
-      "RSSI@1m(dBm)": 3,
-    },
-    {
-      "TimeStamp": "2020-03-20 12:04:46",
-      "DataFormat": "iBeacon",
-      "BLEmac(hex)": "C5DE58748221",
-      "RSSI(dBm)": -44,
-      "iBeaconUUID(hex)": "01020304050607080910111213141516",
-      "iBeaconMajor": 3,
-      "iBeaconMinor": 3,
-      "RSSI@1m(dBm)": 3
-    },
-    {
-      "TimeStamp": "2020-03-20 12:04:47",
-      "DataFormat": "iBeacon",
-      "BLEmac(hex)": "C5DE58748221",
-      "RSSI(dBm)": -44,
-      "iBeaconUUID(hex)": "01020304050607080910111213141516",
-      "iBeaconMajor": 3,
-      "iBeaconMinor": 3,
-      "RSSI@1m(dBm)": 3
     }
   ]
 }
